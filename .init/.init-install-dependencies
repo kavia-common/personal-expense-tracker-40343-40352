@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew dependencies",
+    "working_directory": "/home/kavia/workspace/code-generation/personal-expense-tracker-40343-40352/smartspender_frontend"
+}
